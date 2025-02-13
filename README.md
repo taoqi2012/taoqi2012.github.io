@@ -8,7 +8,7 @@
 <body>
     <h1>这是我做的网站</h1>
     <p>里面有我的社交账号</p>
-    <p>哔哩哔哩：烧_猫https://space.bilibili.com/1264702443?spm_id_from=333.337.0.0</p>
+    <p>哔哩哔哩：<a href="https://space.bilibili.com/1264702443?spm_id_from=333.337.0.0">烧_猫</a></p>
     <p>微信：我被小猫吃了</p>
     <p>QQ号：2064427566</p>
 </body>
