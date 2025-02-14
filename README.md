@@ -11,7 +11,7 @@
     <p>哔哩哔哩：<a href="https://space.bilibili.com/1264702443?spm_id_from=333.337.0.0">烧_猫</a></p>
     <p>微信：我被小猫吃了</p>
    <p>QQ号：<a href="https://user.qzone.qq.com/2064427566">2064427566</a></p>
-   <p><a href="diag_result_20250212_161025.txt">英语时态</a></p>
+   <p><a href="README.md">英语时态</a></p>
     
 </body>
 </html>
