@@ -1,71 +1,68 @@
-## 一般现在时 (Simple Present Tense)
-### 结构
-主语 + 动词原形（第三人称单数加 -s/-es）
-### 例句
-I work in a hospital.（我在一家医院工作。）
-### 用法
-表示经常或习惯性的动作，客观事实或普遍真理。
+<!DOCTYPE html>
+<html lang="zh-CN">
 
-## 一般过去时 (Simple Past Tense)
-### 结构
-主语 + 动词过去式
-### 例句
-He played football yesterday.（他昨天踢足球了。）
-### 用法
-表示过去某个时间发生的动作或存在的状态。
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My GitHub Page</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+        }
 
-## 一般将来时 (Simple Future Tense)
-### 结构
-主语 + will + 动词原形
-### 例句
-They will travel to Paris next month.（他们下个月将去巴黎旅行。）
-### 用法
-表示将来某个时间要发生的动作或存在的状态。
+        h1 {
+            font-size: 3em;
+            margin-bottom: 0.5em;
+            color: #2c3e50;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+        }
 
-## 现在进行时 (Present Continuous Tense)
-### 结构
-主语 + am/is/are + 动词的现在分词
-### 例句
-She is singing a song at the moment.（她此刻正在唱歌。）
-### 用法
-表示现在正在进行的动作或现阶段正在进行的动作。
+        p {
+            font-size: 1.2em;
+            margin: 0.5em 0;
+        }
 
-## 过去进行时 (Past Continuous Tense)
-### 结构
-主语 + was/were + 动词的现在分词
-### 例句
-We were watching a movie at 9 p.m. last night.（昨晚九点我们正在看电影。）
-### 用法
-表示过去某个时间正在进行的动作。
+        a {
+            color: #3498db;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
 
-## 将来进行时 (Future Continuous Tense)
-### 结构
-主语 + will be + 动词的现在分词
-### 例句
-I will be studying for the exam this time tomorrow.（明天这个时候我将正在为考试学习。）
-### 用法
-表示将来某个时间正在进行的动作。
+        a:hover {
+            color: #2980b9;
+            text-decoration: underline;
+        }
 
-## 现在完成时 (Present Perfect Tense)
-### 结构
-主语 + have/has + 动词的过去分词
-### 例句
-He has already eaten breakfast.（他已经吃过早饭了。）
-### 用法
-表示过去发生的动作对现在造成的影响或结果，或从过去开始一直持续到现在的动作或状态。
+        .content-container {
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 2em;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            width: 80%;
+            max-width: 600px;
+        }
+    </style>
+</head>
 
-## 过去完成时 (Past Perfect Tense)
-### 结构
-主语 + had + 动词的过去分词
-### 例句
-By the end of last year, she had learned 2000 English words.（到去年年底，她已经学了 2000 个英语单词。）
-### 用法
-表示在过去某个时间或动作之前已经发生或完成的动作，即“过去的过去”。
+<body>
+    <div class="content-container">
+        <h1>这是我做的网站</h1>
+        <p>里面有我的社交账号</p>
 
-## 将来完成时 (Future Perfect Tense)
-### 结构
-主语 + will have + 动词的过去分词
-### 例句
-They will have finished the project by the end of this week.（到本周末他们将已经完成这个项目。）
-### 用法
-表示在将来某个时间之前已经完成的动作。
+        <p>哔哩哔哩：<a href="https://space.bilibili.com/1264702443?spm_id_from=333.337.0.0">烧_猫</a></p>
+        <p>微信：我被小猫吃了</p>
+        <p>QQ号：<a href="https://user.qzone.qq.com/2064427566">2064427566</a></p>
+        <p><a href="https://github.com/taoqi2012/taoqi2012.github.io/blob/b767ac5c2041617b44bdfb80c86a56d283bb3221/%E8%8B%B1%E8%AF%AD%E6%97%B6%E6%80%81">英语时态</a></p>
+    </div>
+</body>
+
+</html>
